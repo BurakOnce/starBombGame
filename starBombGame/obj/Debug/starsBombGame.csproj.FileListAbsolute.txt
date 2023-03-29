@@ -1,0 +1,8 @@
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\bin\Debug\Bomb.exe.config
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\bin\Debug\Bomb.exe
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\bin\Debug\Bomb.pdb
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\obj\Debug\starsBombGame.csproj.AssemblyReference.cache
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\obj\Debug\starsBombGame.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\obj\Debug\starsBombGame.csproj.CoreCompileInputs.cache
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\obj\Debug\Bomb.exe
+C:\Projeler\C#\Başlangıç\Projeler\Bomb\obj\Debug\Bomb.pdb
